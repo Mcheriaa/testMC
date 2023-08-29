@@ -1,4 +1,3 @@
-import {Html5QrcodeScanner} from 'html5-qrcode';
 
 function docReady(fn) {
     if (document.readyState === "complete"
